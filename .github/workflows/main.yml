@@ -39,8 +39,9 @@ jobs:
             exit 0
           fi
       
-      - name: Add README.md to staging area
-        run: git add README.md
+      - name: Cleanup Git Cache
+        run: |
+          git gc --aggressive --prune=now  # Membersihkan dan mengoptimalkan repositori
 
       - name: Configure Git
         run: |
@@ -51,7 +52,3 @@ jobs:
         run: |
           git commit -m 'Update README' || echo "No changes to commit."
           git push
-
-      - name: Cleanup Git Cache
-        run: |
-          git gc --aggressive --prune=now  # Membersihkan dan mengoptimalkan repositori
