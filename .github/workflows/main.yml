@@ -8,30 +8,45 @@ on:
 jobs:
   update:
     runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.10'
+steps:
 
-      - name: Install dependencies
-        run: pip install requests pandas
+  - name: Checkout repository
 
-      - name: Run script
-        run: python trends_update.py
+    uses: actions/checkout@v3
 
-      - name: Add README.md to staging area
-        run: git add README.md
+  - name: Set up Python
 
-      - name: Configure Git
-        run: git branch --set-upstream-to origin/main main 
+    uses: actions/setup-python@v4
 
-      - name: Commit and push changes
-        run: |
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git commit -m 'Update README'
-          git push
+    with:
+
+      python-version: '3.10'
+
+  - name: Install dependencies
+
+    run: pip install requests pandas
+
+  - name: Run script
+
+    run: python trends_update.py
+
+  - name: Add README.md to staging area
+
+    run: git add README.md
+
+  - name: Configure Git
+
+    run: git branch --set-upstream-to origin/main main 
+
+  - name: Commit and push changes
+
+    run: |
+
+      git config user.name 'github-actions[bot]'
+
+      git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+
+      git commit -m 'Update README'
+
+      git push
