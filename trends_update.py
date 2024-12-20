@@ -42,7 +42,7 @@ for i, country in enumerate(countries):
     keywords, update_time = get_keywords(country)
     table_data.append([i+1, country, keywords, update_time])
 
-table_header = ["No.", "Nama Negara", "Kata Kunci", "Waktu Update"]
+table_header = ["No.", "Countries", "Keywords", "Last Updates"]
 table_rows = ["| " + " | ".join(map(str, row)) + " |" for row in table_data]
 table_md = "| " + " | ".join(table_header) + " |\n"
 table_md += "|---|---|---|---|\n"
@@ -50,7 +50,7 @@ table_md += "\n".join(table_rows)
 
 # Buat isi README.md
 readme_content = f"""
-Get autoblog update
+Get Google Trends Autoblog Auto Update
 <a href="https://blogkeren.web.id">AI Google Trends Autoblog</a>.
 
 
