@@ -37,8 +37,9 @@ table_md += "\n".join(table_rows)
 
 # Buat isi README.md
 readme_content = f"""
-Kata-kata pembuka.
-Berikut update data keywords Google Trends terbaru.
+Get autoblog update
+<a href="https://blogkeren.web.id">AI Google Trends Autoblog</a>.
+
 
 Tabel:
 
