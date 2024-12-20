@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: "*/5 * * * *"  # Jalankan setiap 5 menit
+    - cron: "*/5 * * * *"
   workflow_dispatch: {}
 
 jobs:
@@ -21,20 +21,26 @@ jobs:
       - name: Install dependencies
         run: pip install requests pandas
 
+      - name: Show current contents of README.md before running script
+        run: cat README.md
+
       - name: Run script
         run: |
           python trends_update.py
           echo "Script executed. Current state:"
           git status
 
-      - name: Show README.md contents
-        run: cat README.md  # Menampilkan isi README.md
+      - name: Show current contents of README.md after running script
+        run: cat README.md
 
-      - name: Verify current branch
-        run: git branch  # Memastikan kita berada di branch yang benar
+      - name: Check for changes using git diff
+        run: git diff
 
       - name: Check Git Status
-        run: git status  # Memeriksa status Git
+        run: git status
+
+      - name: Verify current branch
+        run: git rev-parse --abbrev-ref HEAD
 
       - name: Check for changes
         run: |
@@ -60,4 +66,4 @@ jobs:
 
       - name: Cleanup Git Cache
         run: |
-          git gc --aggressive --prune=now  # Membersihkan dan mengoptimalkan repositori
+          git gc --aggressive --prune=now
