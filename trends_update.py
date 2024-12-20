@@ -22,7 +22,7 @@ def get_keywords(country):
         data = response.text.splitlines()
         if len(data) >= 3:  # Pastikan file memiliki minimal 3 baris
             update_time = data[1].replace("Update Data ", "")
-            keywords = data[2]
+            keywords = data[2].replace(",", ", ")  # Ganti koma dengan koma dan spasi
             return keywords, update_time
         else:
             print(f"Error: File {country}.txt tidak valid")
