@@ -22,7 +22,13 @@ jobs:
         run: pip install requests pandas
 
       - name: Run script
-        run: python trends_update.py
+        run: |
+          python trends_update.py
+          echo "Script executed. Current state:"
+          git status
+
+      - name: Check Git Status
+        run: git status
 
       - name: Check for changes
         run: |
@@ -32,13 +38,20 @@ jobs:
             echo "No changes detected"
             exit 0
           fi
-
+      
       - name: Add README.md to staging area
         run: git add README.md
 
-      - name: Commit and push changes
+      - name: Configure Git
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+
+      - name: Commit and push changes
+        run: |
           git commit -m 'Update README' || echo "No changes to commit."
           git push
+
+      - name: Cleanup Git Cache
+        run: |
+          git gc --aggressive --prune=now  # Membersihkan dan mengoptimalkan repositori
