@@ -19,7 +19,7 @@ jobs:
         run: pip install requests pandas
 
       - name: Run script
-        run: python update_readme.py
+        run: python trends_update.py
 
       - name: Commit and push changes
         run: |
