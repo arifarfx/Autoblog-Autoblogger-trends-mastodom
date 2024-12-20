@@ -26,9 +26,8 @@ def get_keywords(country):
 
         keywords = response.text.replace(",", ", ")  # Ganti koma dengan koma dan spasi
 
-        # Ambil waktu update terakhir dari repository
-        update_time = datetime.fromtimestamp(response.headers['Last-Modified'], 
-                                             tz=timezone.utc).strftime('%Y-%m-%d %H:%M:%S UTC')
+        # Gunakan waktu sekarang sebagai waktu update
+        update_time = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%S UTC')
 
         return keywords, update_time
 
