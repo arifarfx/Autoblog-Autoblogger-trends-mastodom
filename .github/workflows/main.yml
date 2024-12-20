@@ -27,8 +27,14 @@ jobs:
           echo "Script executed. Current state:"
           git status
 
+      - name: Show README.md contents
+        run: cat README.md  # Menampilkan isi README.md
+
+      - name: Verify current branch
+        run: git branch  # Memastikan kita berada di branch yang benar
+
       - name: Check Git Status
-        run: git status
+        run: git status  # Memeriksa status Git
 
       - name: Check for changes
         run: |
@@ -39,9 +45,8 @@ jobs:
             exit 0
           fi
       
-      - name: Cleanup Git Cache
-        run: |
-          git gc --aggressive --prune=now  # Membersihkan dan mengoptimalkan repositori
+      - name: Add README.md to staging area
+        run: git add README.md
 
       - name: Configure Git
         run: |
@@ -52,3 +57,7 @@ jobs:
         run: |
           git commit -m 'Update README' || echo "No changes to commit."
           git push
+
+      - name: Cleanup Git Cache
+        run: |
+          git gc --aggressive --prune=now  # Membersihkan dan mengoptimalkan repositori
