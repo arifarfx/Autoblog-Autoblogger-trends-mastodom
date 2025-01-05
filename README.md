@@ -7,54 +7,54 @@
 
 | No. | Countries | Keywords | Last Updates |
 |---|---|---|---|
-| 1 | ARGENTINA | Descuentos Cuenta DNI, Sueldo Victoria Villarruel, Mathias Acuña, Marbella  Atlético Madrid, Murio influencer Killadamente, Manchester City  West Ham, Crystal Palace  Chelsea, Premier League, Rodrigo Garro, Tottenham  Newcastle, Jeff Baena, Brighton  Arsenal, Apple TV, Almería  Sevilla, Venezuela, Aston Villa, Fiorentina - Napoli, Sandro, Ingrid, Minecraft 2 | 2025-01-05 14:51:07 UTC |
-| 2 | AUSTRALIA | Adelaide Strikers vs Hobart Hurricanes, Jeff Baena, Premier League, Scott Boland, Steve Smith, Lotto, Man City vs West Ham, Golden Globes 2025, Tottenham, McGrath Foundation, Jimmy Carter, Arsenal, George Soros, Border-Gavaskar Trophy, Nicole Kidman, Derrick Rose, Chelsea, World Test Championship, World Test Championship 2025, Barcelona | 2025-01-05 14:51:07 UTC |
-| 3 | AUSTRIA | Premier League, Masern Skigebiet Österreich, Papst Franziskus, Glöcklerlauf, Mahrer, Peter Rapp, Mcdonald’s, Skiathlon, Christian Stocker, Stefan Kraft, Jeff Baena, Barbastro – Barcelona, Der STANDARD, Matej Svancer, Lothar Matthäus, Ralf Schumacher, Brighton – Arsenal, Galatasaray, Wendy Holdener, FC Barcelona | 2025-01-05 14:51:07 UTC |
-| 4 | BELGIUM | Demi-finale Star Academy 2024, Cross Dendermonde, Tempête hivernale, Michael J. Fox, Lucinda Brand, Denise Richards, Manchester City  West Ham, Premier League, Jeff Baena, FN 303, Cross Gullegem, Arsenal, Tottenham – Newcastle, Miet Smet, Hector, Barcelona, Xander De Rycke, Barca, Bart Swings, Ligue 1 | 2025-01-05 14:51:07 UTC |
-| 5 | BRAZIL | Liverpool, Michael Schumacher, Lewis Hamilton, Liverpool x Manchester United, Botafogo-PB, Barbastro x Barcelona, City x West Ham, Garro, Premier League, Brighton x Arsenal, Santa Cruz, Primo Rico, Do Arpoador, Resultado Mega-Sena, Jeff Baena, Fiorentina x Napoli, Benfica, Globo de Ouro 2025, Atletico de Madrid, Lyon | 2025-01-05 14:51:07 UTC |
-| 6 | CANADA |  | 2025-01-05 14:51:07 UTC |
-| 7 | CHILE | Accidente Zapallar, Alexis Sánchez, Killadamente murio, Premier League, Manchester City  West Ham, Hellas Verona  Udinese, Jeff Baena, Brighton  Arsenal, Tottenham  Newcastle, Marbella  Atlético Madrid, Crystal Palace  Chelsea, Aston Villa  Leicester City, U de Chile vs, Almería  Sevilla, Arsenal vs, Fiorentina - Napoli, Gonzalo Montes, UD Logroñés  Athletic, Gobierno compra casa Allende, Chelsea vs | 2025-01-05 14:51:08 UTC |
-| 8 | COLOMBIA | Copa del Rey, Victor Manuel Zapata, Fulham - Ipswich, Monza  Cagliari, Manchester City  West Ham, Premier League, Aston Villa  Leicester City, Crystal Palace  Chelsea, Tottenham  Newcastle, Marbella  Atlético Madrid, Brighton  Arsenal, Killadamente murio, Temblor hoy, Paro camionero 2025, Almería  Sevilla, Southampton - Brentford, Jeff Baena, UD Logroñés  Athletic, David González, Arsenal vs | 2025-01-05 14:51:08 UTC |
-| 9 | CZECHIA |  | 2025-01-05 14:51:08 UTC |
-| 10 | DENMARK | Joe Biden, Christopher, Crunchyroll, Nicole Kidman, UFC, Premier League, Jeff Baena, Arsenal, Hall of Fame, Tottenham  Newcastle, Man City  West Ham, Southampton  Brentford, Jimmy Carter, Barbastro  Barcelona, Chelsea, HMPV, Tofu, Zendaya, Solo Leveling Season 2, Ed Pettifer | 2025-01-05 14:51:09 UTC |
-| 11 | EGYPT | شهادات البنك الاهلى, علي معلول, فيرمينو, السيتي, ترتيب الدوري الانجليزي, برايتون ضد آرسنال, برشلونة, مانشستر سيتي, HMPV, ترتيب هدافي الدوري الانجليزي, مجموعه الاهلي في دوري ابطال افريقيا, رياضة, احمد بدير, الرجاء ضد صن داونز, تشيلسي, عمان ضد البحرين, الاسماعيلي, توتنهام, رنا سماحة, بركان اثيوبيا اليوم | 2025-01-05 14:51:09 UTC |
-| 12 | FINLAND |  | 2025-01-05 14:51:09 UTC |
-| 13 | FRANCE | Premier League, Epiphanie, Charlie Hebdo, Lens – Toulouse, Arsenal, Jenifer, FC Nantes, Vol Air France, Victor Wembanyama, Star Academy demi-finale, Tyrol, Barcelone, Claude Allègre, La Barbade, Jeff Baena, OL, La Rochelle – Toulouse, Barca, Luiz Felipe, PSG - Monaco | 2025-01-05 14:51:09 UTC |
-| 14 | GERMANY | Thilo Mischke, Jimmy Carter, Österreich, Luke Littler, Littler, New Orleans, Michael van Gerwen, Was sind Kugelbomben, Luke Littler, Südkorea, Flugzeugabsturz in Kasachstan, Squid Game, Vierschanzentournee, Oh Du fröhliche, Nachrichten, Magdeburg, MDR, Vertrauensfrage, Mpox, Rolf Zuckowski | 2025-01-05 14:51:10 UTC |
-| 15 | GREECE |  | 2025-01-05 14:51:10 UTC |
-| 16 | HONG KONG |  | 2025-01-05 14:51:10 UTC |
-| 17 | HUNGARY | Orbán Viktor, Soros György, Arsenal, Jimmy Carter, Jake Lloyd, Monza–cagliari, Jeff Baena, Premier League, Bournemouth–Everton, Sulyok Tamás, Hold Szaturnusz, Halmosi Zoltán, Ursula von der Leyen, M4sport, Chelsea, Ganxsta Zolee, Manchester City, Sheertex, Tottenham, Viktor Gyökeres | 2025-01-05 14:51:10 UTC |
-| 18 | INDIA | Premier League, Aubrey Plaza, Mukesh Chandrakar, OYO unmarried couples, Ram Charan, Yuzvendra Chahal, Vijay hazare trophy, Barcelona, Jagdeep Singh, FC Barcelona, IND बनाम AUS, Border-Gavaskar Trophy, HMPV virus cases, Minimalist, India vs Australia, South Africa vs Pakistan, HMPV, Jasprit Bumrah, Rishabh Pant, Bumrah | 2025-01-05 14:51:10 UTC |
-| 19 | INDONESIA | Brighton vs Arsenal, Thailand vs Vietnam, Fiorentina vs Napoli, Alvin Lim meninggal, EPL, When the Stars Gossip, Mitchel Bakker, Pengumuman CPNS 2024, Fulham vs Ipswich, Oxford United, Dime Dimov, Megathrust Selat Sunda meledak, Mohamed Salah, Alexander Isak, Aubrey Plaza, Persela, Juicy Luicy, Sriwijaya FC, Opsen pajak kendaraan bermotor, PSG | 2025-01-05 14:51:10 UTC |
-| 20 | IRELAND |  | 2025-01-05 14:51:11 UTC |
-| 21 | ISRAEL |  | 2025-01-05 14:51:11 UTC |
-| 22 | ITALY | Monza-Cagliari, Lecce-Genoa, Rosanna Lambertucci, Meloni, James Senese, Daniele,  tifoso Napoli, Stefano D'Orazio, Fabio Fognini, Bradley Cooper, Juric, Arsenal, Spal  Perugia, Biden, Adriano Celentano, Aryna Sabalenka, Golden Globe 2025, Previsioni meteo neve, Venezia-Empoli, Verona-Udinese, Nuovo virus Cina Hmpv | 2025-01-05 14:51:11 UTC |
-| 23 | JAPAN | べらぼう, キミとアイドルプリキュア, 高校ラグビー, ブンブンジャー, 黒柳徹子, 乃木坂46, マグロ 初競り 2025, 金杯, 松山英樹, 香取慎吾, 豊洲初競りマグロ, アーセナル, 高校サッカー選手権, 伊藤沙莉 結婚, 錦織圭, 暴れん坊将軍, 新日本プロレス, 静岡学園 サッカー, 東海大相模 サッカー, 桐山照史 | 2025-01-05 14:51:11 UTC |
-| 24 | KENYA | Fulham vs Ipswich Town, George Soros, Jimmy Carter, Sports, Atletico Madrid, Aubrey Plaza, Solo Leveling Season 2, Brighton vs Arsenal, Crystal Palace vs Chelsea, Man City vs West Ham, Premier League, Southampton vs Brentford, Copa del Rey, Tottenham, HMPV, Chelsea FC, Barcelona, Roseline Odede, Napoli, Aston Villa | 2025-01-05 14:51:12 UTC |
-| 25 | MALAYSIA |  | 2025-01-05 14:51:12 UTC |
-| 26 | MEXICO | Fulham - Ipswich, Precio del dólar Hoy, Golden Globes 2025, Carlos Salcedo, Solo Leveling, Manchester City  West Ham, Premier League, Muere influencer Killadamente, Ravens vs Browns, Steelers.  Bengals, Jeff Baena, Marbella  Atlético Madrid, Brighton  Arsenal, Crystal Palace - Chelsea, Tottenham  Newcastle, Steelers, Emilio Echevarría, Chivas vs, Pablo Lyle, Aston Villa  Leicester City | 2025-01-05 14:51:12 UTC |
-| 27 | NETHERLANDS |  | 2025-01-05 14:51:12 UTC |
-| 28 | NEW ZEALAND | Jeff Baena, Sri Lanka vs New Zealand, Premier League, Ed Pettifer, Naomi Osaka, Arsenal, Human Metapneumovirus (HMPV China, Lotto Powerball, Man City vs West Ham, Karate Kid, Tottenham vs Newcastle, Cook Strait ferry sailings cancelled, Jimmy Carter, Breakers, Ariana Grande, China, Solo Leveling Season 2, Luke Littler, Maia Cotton, The castle | 2025-01-05 14:51:12 UTC |
-| 29 | NIGERIA | Fulham vs Ipswich Town, George Soros, Jimmy Carter, Aubrey Plaza, Nathaniel Bassey, Brighton vs Arsenal, Crystal Palace vs Chelsea, Man City vs West Ham, Tottenham vs Newcastle, Copa del Rey, Premier League, Southampton vs Brentford, Chelsea FC, HMPV, Galatasaray, FC Barcelona, Aston Villa, Atletico Madrid, Everton, Napoli | 2025-01-05 14:51:12 UTC |
-| 30 | NORWAY | Ella Victoria Malone, Liverpool, Sebastian Solberg, Håkon Banken, Liverpool FC, Hustadvika, Jonas Mortensen, Ina Wroldsen, Årets navn, Kaggestad, Hver gang vi møtes, Jeff Baena, Arsenal, Nora Mørk, A-laget, Mads Hansen, Manchester City, Barcelona, Therese Johaug, Stine Oftedal | 2025-01-05 14:51:13 UTC |
-| 31 | PHILIPPINES | Warriors vs Grizzlies, Jeff Baena, Clippers vs Hawks, Heat vs Jazz, When the Stars Gossip, Pistons vs Timberwolves, Nets vs 76ers, Pacers vs Suns, PBA, Bucks vs Trail Blazers, Epiphany, Bulls vs Knicks, Premier League, Samsung Galaxy Galaxy S25 Ultra, Derrick Rose, Hypothyroidism, Netflix Squid games, Three Kings, Lakers vs Hawks, Solo Leveling Season 2 | 2025-01-05 14:51:13 UTC |
-| 32 | POLAND |  | 2025-01-05 14:51:13 UTC |
-| 33 | PORTUGAL | Premier League, Liverpool, Aeroporto Francisco Sá Carneiro, Odemira, Bali, Keita balde, Derrick Rose, Carolina Loureiro, Chuva forte, Biden, Breaking Bad, Joana Diniz, Quênia, Catarina Esparteiro, Jeff Baena, City  West Ham, Nininho, Boavista  Arouca, Barbastro  Barcelona, Tottenham  Newcastle | 2025-01-05 14:51:13 UTC |
-| 34 | ROMANIA |  | 2025-01-05 14:51:13 UTC |
-| 35 | RUSSIA |  | 2025-01-05 14:51:13 UTC |
-| 36 | SAUDI ARABIA | الحرس الوطني, اصالة كامل, مسارات مترو الرياض, ارسنال, الفيروس HMPV, منخفض جوي, رنا سماحة, احمد بدير, بسمة بوسيل, إلهام شاهين, الزكاة, نادي بارباسترو ضد برشلونة, منى رياض الصلح, السيتي, ترتيب الدوري الانجليزي, برشلونة, الاهلي, مانشستر سيتي, بركان إثيوبيا, ولي عهد الكويت | 2025-01-05 14:51:14 UTC |
-| 37 | SINGAPORE |  | 2025-01-05 14:51:14 UTC |
-| 38 | SOUTH AFRICA |  | 2025-01-05 14:51:14 UTC |
-| 39 | SOUTH KOREA | 로또1153회당첨번호, EPL, 유연석, 윤석열 지지율, 맨시티, 이정재 임세령, 민노총, 송중기, 헌법재판소, 화란, 최진혁, 날씨, 토트넘, 김혜성, 이준혁, 별들에게 물어봐, 권도형, 레알마드리드, 야탑 화재, 오은영 | 2025-01-05 14:51:14 UTC |
-| 40 | SWEDEN | JVM, Jesper Salén, Joe Biden, Sverige Finland, Jeff Baena, Alexander Isak, Arsenal, Fame, Tottenham, Sverige Finland jvm 2025, Newcastle, Snöoväder, Ebba Andersson, Gypsy Rose, Frölunda Leksand, Sverige Finland JVM, Real Madrid, Marcus Grate, The split, Gävle | 2025-01-05 14:51:14 UTC |
-| 41 | SWITZERLAND | 20 Minuten, Premier League, Flughafen Zürich, Thilo Mischke, Karl Nehammer, Ann Telnaes, Mélanie Meillard, Epiphanie, Claude Allègre, BVB, Tempête hivernale, Eisregen wetter Schweiz, Jeff Baena, Kranjska Gora, Man City – West Ham, La brevine, FC Barcelona, Brighton – Arsenal, Tottenham – Newcastle, Jimmy Carter | 2025-01-05 14:51:15 UTC |
-| 42 | TAIWAN |  | 2025-01-05 14:51:15 UTC |
-| 43 | THAILAND | อาร์เซนอล, แมนยู VS ลิเวอร์พูล, บาร์เซโลน่า, เลสเตอร์, When the Stars Gossip, บอร์นมัธ, ดูบอลสด, สเปอร์ส พบ นิวคาสเซิล, แมนซิตี พบ เวสต์แฮม, คริสตัลพาเลซ พบ เชลซี, อี๊ดสบู่สับปะรด, HMPV, แอสตันวิลล่า, ฝนดาวตก, มาดริด, คุณสู้เราช่วย, โก๊ะตี๋, Sizzler, ดาวเคียงเดือน, ตรวจหวย 2 มกราคม 2568 | 2025-01-05 14:51:15 UTC |
-| 44 | TURKEY |  | 2025-01-05 14:51:15 UTC |
-| 45 | UKRAINE | 5 січня свято, Фіорентіна – наполі, АПЛ, Брайтон – Арсенал, Barbastro – Барселона, Ла Лига, Манчестер Сіті – Вест Гем, Кристал Пэлас – Челси, Буданов, Гренландия, Кубок короля, Реал, Ювентус – милан, Венера, Чернігів, Придністров'я, 155 бригада, 155 бригада ЗСУ, Интер – Аталанта, Приднестровье | 2025-01-05 14:51:15 UTC |
-| 46 | UNITED KINGDOM | Liverpool FC, Rangers, Fulham vs ipswich Town, Maya Jama, Joe Biden, FOOTBALL RESULTS, Playing Nice, Leeds Bradford Airport, Robert Jenrick, Premier League, Jeff Baena, TOTTENHAM VS NEWCASTLE, Arsenal, Man City vs West Ham, Crystal Palace vs Chelsea, Ed Pettifer, Leeds United, Elvis Presley, Aston Villa, Weather Today | 2025-01-05 14:51:15 UTC |
-| 47 | UNITED STATES | Golden Globes 2025, Kc Chiefs, Jeff Baena, Bengals vs Steelers, Winter Storm Warning, Browns vs Ravens, George Soros, Jimmy Carter, Premier League, Chiefs, Derrick Rose, Zay Flowers, Lamar Jackson, Arsenal, Barcelona, Sonny Smart, Kawhi Leonard, Kentucky basketball, Chelsea, FC Barcelona | 2025-01-05 14:51:16 UTC |
-| 48 | VIETNAM |  | 2025-01-05 14:51:16 UTC |
+| 1 | ARGENTINA |  | 2025-01-05 15:10:43 UTC |
+| 2 | AUSTRALIA |  | 2025-01-05 15:10:43 UTC |
+| 3 | AUSTRIA |  | 2025-01-05 15:10:44 UTC |
+| 4 | BELGIUM |  | 2025-01-05 15:10:44 UTC |
+| 5 | BRAZIL |  | 2025-01-05 15:10:44 UTC |
+| 6 | CANADA |  | 2025-01-05 15:10:44 UTC |
+| 7 | CHILE |  | 2025-01-05 15:10:44 UTC |
+| 8 | COLOMBIA |  | 2025-01-05 15:10:44 UTC |
+| 9 | CZECHIA |  | 2025-01-05 15:10:44 UTC |
+| 10 | DENMARK |  | 2025-01-05 15:10:44 UTC |
+| 11 | EGYPT |  | 2025-01-05 15:10:44 UTC |
+| 12 | FINLAND |  | 2025-01-05 15:10:44 UTC |
+| 13 | FRANCE |  | 2025-01-05 15:10:44 UTC |
+| 14 | GERMANY |  | 2025-01-05 15:10:45 UTC |
+| 15 | GREECE |  | 2025-01-05 15:10:45 UTC |
+| 16 | HONG KONG |  | 2025-01-05 15:10:45 UTC |
+| 17 | HUNGARY |  | 2025-01-05 15:10:45 UTC |
+| 18 | INDIA |  | 2025-01-05 15:10:45 UTC |
+| 19 | INDONESIA |  | 2025-01-05 15:10:45 UTC |
+| 20 | IRELAND |  | 2025-01-05 15:10:45 UTC |
+| 21 | ISRAEL |  | 2025-01-05 15:10:45 UTC |
+| 22 | ITALY |  | 2025-01-05 15:10:45 UTC |
+| 23 | JAPAN |  | 2025-01-05 15:10:45 UTC |
+| 24 | KENYA |  | 2025-01-05 15:10:45 UTC |
+| 25 | MALAYSIA |  | 2025-01-05 15:10:45 UTC |
+| 26 | MEXICO |  | 2025-01-05 15:10:46 UTC |
+| 27 | NETHERLANDS |  | 2025-01-05 15:10:46 UTC |
+| 28 | NEW ZEALAND |  | 2025-01-05 15:10:46 UTC |
+| 29 | NIGERIA |  | 2025-01-05 15:10:46 UTC |
+| 30 | NORWAY |  | 2025-01-05 15:10:46 UTC |
+| 31 | PHILIPPINES |  | 2025-01-05 15:10:46 UTC |
+| 32 | POLAND |  | 2025-01-05 15:10:46 UTC |
+| 33 | PORTUGAL |  | 2025-01-05 15:10:46 UTC |
+| 34 | ROMANIA |  | 2025-01-05 15:10:46 UTC |
+| 35 | RUSSIA |  | 2025-01-05 15:10:46 UTC |
+| 36 | SAUDI ARABIA |  | 2025-01-05 15:10:46 UTC |
+| 37 | SINGAPORE |  | 2025-01-05 15:10:47 UTC |
+| 38 | SOUTH AFRICA |  | 2025-01-05 15:10:47 UTC |
+| 39 | SOUTH KOREA |  | 2025-01-05 15:10:47 UTC |
+| 40 | SWEDEN |  | 2025-01-05 15:10:47 UTC |
+| 41 | SWITZERLAND |  | 2025-01-05 15:10:47 UTC |
+| 42 | TAIWAN |  | 2025-01-05 15:10:47 UTC |
+| 43 | THAILAND |  | 2025-01-05 15:10:47 UTC |
+| 44 | TURKEY |  | 2025-01-05 15:10:47 UTC |
+| 45 | UKRAINE |  | 2025-01-05 15:10:47 UTC |
+| 46 | UNITED KINGDOM |  | 2025-01-05 15:10:47 UTC |
+| 47 | UNITED STATES |  | 2025-01-05 15:10:47 UTC |
+| 48 | VIETNAM |  | 2025-01-05 15:10:48 UTC |
 
 ## Autoblogger: Your Secret Weapon for Effortless Content Creation (on Blogspot!)
 
